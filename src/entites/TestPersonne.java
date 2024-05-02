@@ -19,7 +19,7 @@ public class TestPersonne {
 		pers1.adressePostale.ville = "Montpellier";
 		*/
 		//System.out.println(" "+pers1.nom+" "+pers1.prenom+"\n "+pers1.adressePostale.numeroDeRue+" "+pers1.adressePostale.libelleDeRue+" "+pers1.adressePostale.codePostal+" "+pers1.adressePostale.ville);
-		pers1.afficherNom();
+		
 		pers1.modifierAdressePostale(adress2);
 		pers1.afficherPersonne();
 		

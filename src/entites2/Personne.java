@@ -43,7 +43,7 @@ public class Personne {
 			return adressePostale;
 		}
 		public void afficherPersonne() {
-			System.out.println(" Nom: "+this.nom+ " Prenom: "+this.prenom+"\n adresse: "+this.adressePostale.numeroDeRue+" "+this.adressePostale.libelleDeRue+"\n "+this.adressePostale.codePostal+" "+this.adressePostale.ville);
+			System.out.println(" Nom: "+this.nom.toUpperCase()+ " Prenom: "+this.prenom+"\n adresse: "+this.adressePostale.numeroDeRue+" "+this.adressePostale.libelleDeRue+"\n "+this.adressePostale.codePostal+" "+this.adressePostale.ville);
 		}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
