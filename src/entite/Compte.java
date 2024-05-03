@@ -1,4 +1,4 @@
-package fr.diginamic.banque.entites;
+package entite;
 
 public class Compte {
 	//attributs de classe-> private et setters/getters public
