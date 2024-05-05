@@ -22,7 +22,7 @@ public abstract class Operation {
 		this.montantOperation = montantOperation;
 	}
 	public String toString(){
-		return dateOperation+" "+montantOperation;
+		return dateOperation+" "+montantOperation;//+ getType()
 	}
 	public abstract String getType();
 }

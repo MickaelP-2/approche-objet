@@ -29,7 +29,7 @@ public class TestOperation {
 			}
 			System.out.println("operations: "+tablo[i].toString()+" "+tablo[i].getType());
 		}//fin for()
-		System.out.println("Solde des opérations de la période: "+montant_global);
+		System.out.println("Solde des opérations de la période: "+montant_global+"€");
 	}
 
 }
