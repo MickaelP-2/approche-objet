@@ -6,6 +6,10 @@ public abstract class Piece {
 	private int numeroEtage;//0 pour RDC,...
 	//
 	public Piece(double superficie, int numetage) {
+		if(superficie<0) {
+			System.out.println("Vérifiez la surface");
+			return;
+		}//fin if()
 		this.superficie = superficie;
 		this.numeroEtage = numetage;
 	}//fin constructeur()
