@@ -12,14 +12,14 @@ public class Cercle extends Forme{
 	@Override
 	public double calculerSurface() {
 		// TODO Auto-generated method stub
-		double surface =  (rayon*rayon)*PI;
+		double surface = (rayon*rayon)*PI;
 		return surface;
 	}
 
 	@Override
 	public double calculerPerimetre() {
 		// TODO Auto-generated method stub
-		double perimetre =  (rayon*2)*PI;
+		double perimetre = (rayon*2)*PI;
 		return perimetre;
 	}
 
