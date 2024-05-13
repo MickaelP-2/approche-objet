@@ -1,0 +1,365 @@
+Les Ulis 18 Île-de-France 25 031
+Armentières 04 Hauts-de-France 25 373
+Le Kremlin-Bicêtre 12 Île-de-France 25 422
+Libourne 16 Nouvelle-Aquitaine 25 491
+Eaubonne 08 Île-de-France 25 514
+Biarritz 07 Nouvelle-Aquitaine 25 518
+La Garde 06 Provence-Alpes-Côte d'Azur 25 645
+Saint-Dizier 99 Grand Est 25 666
+Rodez 99 Occitanie 25 747
+Béthune 11 Hauts-de-France 25 753
+Élancourt 18 Île-de-France 25 829
+Muret 09 Occitanie 25 961
+Montbéliard 13 Bourgogne-Franche-Comté 26 015
+Gradignan 24 Nouvelle-Aquitaine 26 029
+Laon 97 Hauts-de-France 26 031
+Remire-Montjoly 00 Guyane 26 170
+Le Grand-Quevilly 13 Normandie 26 175
+Miramas 27 Provence-Alpes-Côte d'Azur 26 217
+Sèvremoine 18 Pays de la Loire 26 239
+Hénin-Beaumont 99 Hauts-de-France 26 260
+Montfermeil 20 Île-de-France 26 262
+Lunel 12 Occitanie 26 263
+Villeparisis 23 Île-de-France 26 507
+Brunoy 98 Île-de-France 26 520
+La Teste-de-Buch 32 Nouvelle-Aquitaine 26 525
+Taverny 19 Île-de-France 26 541
+Gonesse 21 Île-de-France 26 556
+Sucy-en-Brie 18 Île-de-France 26 575
+Orvault 25 Pays de la Loire 26 618
+Romainville 03 Île-de-France 26 640
+Sens 99 Bourgogne-Franche-Comté 26 688
+Brétigny-sur-Orge 03 Île-de-France 26 702
+Kourou 00 Guyane 26 726
+Rambouillet 14 Île-de-France 26 781
+Vallauris 01 Provence-Alpes-Côte d'Azur 26 787
+Oullins 00 Auvergne-Rhône-Alpes 26 838
+Saintes 20 Nouvelle-Aquitaine 26 890
+Limeil-Brévannes 21 Île-de-France 26 901
+Cavaillon 07 Provence-Alpes-Côte d'Azur 26 985
+Tournefeuille 26 Occitanie 27 008
+Le Gosier 96 Guadeloupe 27 023
+Vierzon 99 Centre-Val de Loire 27 036
+Sannois 01 Île-de-France 27 118
+Alençon 97 Normandie 27 221
+Bussy-Saint-Georges 22 Île-de-France 27 299
+Illkirch-Graffenstaden 07 Grand Est 27 505
+Villiers-le-Bel 21 Île-de-France 27 519
+Fresnes 10 Île-de-France 27 556
+Saint-Sébastien-sur-Loire 29 Pays de la Loire 27 591
+Aurillac 98 Auvergne-Rhône-Alpes 27 659
+Lambersart 22 Hauts-de-France 28 027
+Bègles 96 Nouvelle-Aquitaine 28 092
+Agde 01 Occitanie 28 120
+Vanves 08 Île-de-France 28 148
+Bergerac 98 Nouvelle-Aquitaine 28 166
+Décines-Charpieu 00 Auvergne-Rhône-Alpes 28 249
+Bourgoin-Jallieu 02 Auvergne-Rhône-Alpes 28 399
+Saumur 19 Pays de la Loire 28 554
+Le Chesnay 04 Île-de-France 28 558
+Bois-Colombes 11 Île-de-France 28 607
+Saint-Laurent-du-Var 06 Provence-Alpes-Côte d'Azur 28 831
+Guyancourt 10 Île-de-France 28 839
+Menton 14 Provence-Alpes-Côte d'Azur 28 942
+Ris-Orangis 15 Île-de-France 29 040
+Grigny 20 Île-de-France 29 118
+Yerres 21 Île-de-France 29 132
+Saint-Étienne-du-Rouvray 98 Normandie 29 180
+Le Plessis-Robinson 06 Île-de-France 29 192
+Bezons 03 Île-de-France 29 216
+Thiais 19 Île-de-France 29 295
+Ermont 08 Île-de-France 29 400
+Villiers-sur-Marne 22 Île-de-France 29 407
+Soissons 99 Hauts-de-France 29 417
+Carpentras 06 Provence-Alpes-Côte d'Azur 29 498
+La Garenne-Colombes 11 Île-de-France 29 503
+Draveil 06 Île-de-France 29 558
+Herblay 13 Île-de-France 29 614
+Pierrefitte-sur-Seine 09 Île-de-France 29 728
+Sotteville-lès-Rouen 99 Normandie 29 766
+Orange 11 Provence-Alpes-Côte d'Azur 29 856
+Clichy-sous-Bois 11 Île-de-France 29 978
+Maubeuge 30 Hauts-de-France 29 995
+Vienne 99 Auvergne-Rhône-Alpes 30 178
+Villemomble 21 Île-de-France 30 227
+Rillieux-la-Pape 00 Auvergne-Rhône-Alpes 30 275
+Malakoff 18 Île-de-France 30 286
+Savigny-le-Temple 20 Île-de-France 30 352
+Aix-les-Bains 97 Auvergne-Rhône-Alpes 30 377
+Lyon 1er Arrondissement 00 Auvergne-Rhône-Alpes 30 423
+Vandœuvre-lès-Nancy 22 Grand Est 30 502
+Cachan 02 Île-de-France 30 524
+Dieppe 95 Normandie 30 588
+Charenton-le-Pont 05 Île-de-France 30 793
+Saint-Cloud 23 Île-de-France 30 797
+Lyon 2e Arrondissement 00 Auvergne-Rhône-Alpes 30 857
+Viry-Châtillon 20 Île-de-France 30 962
+Lens 29 Hauts-de-France 31 080
+Goussainville 12 Île-de-France 31 167
+Liévin 30 Hauts-de-France 31 337
+Baie-Mahault 94 Guadeloupe 31 338
+L' Haÿ-les-Roses 10 Île-de-France 31 416
+Vigneux-sur-Seine 19 Île-de-France 31 488
+Périgueux 99 Nouvelle-Aquitaine 31 505
+Mont-de-Marsan 99 Nouvelle-Aquitaine 31 517
+Dreux 99 Centre-Val de Loire 31 575
+Saint-Médard-en-Jalles 28 Nouvelle-Aquitaine 31 576
+Chatou 03 Île-de-France 31 653
+Pontoise 16 Île-de-France 31 880
+Schiltigheim 15 Grand Est 32 024
+Houilles 06 Île-de-France 32 064
+Plaisir 12 Île-de-France 32 128
+Nogent-sur-Marne 95 Île-de-France 32 195
+Matoury 00 Guyane 32 768
+Les Mureaux 11 Île-de-France 32 777
+Châtellerault 98 Nouvelle-Aquitaine 32 887
+Trappes 18 Île-de-France 32 931
+Villenave-d'Ornon 33 Nouvelle-Aquitaine 33 091
+Villeneuve-Saint-Georges 97 Île-de-France 33 135
+La Possession 03 La Réunion 33 337
+Cambrai 09 Hauts-de-France 33 349
+Meyzieu 00 Auvergne-Rhône-Alpes 33 351
+Châtenay-Malabry 06 Île-de-France 33 413
+Épinal 98 Grand Est 33 454
+Montigny-le-Bretonneux 10 Île-de-France 33 535
+Sainte-Marie 23 La Réunion 33 587
+Six-Fours-les-Plages 17 Provence-Alpes-Côte d'Azur 33 904
+Marignane 11 Provence-Alpes-Côte d'Azur 33 949
+Le Perreux-sur-Marne 14 Île-de-France 34 017
+Athis-Mons 02 Île-de-France 34 065
+Romans-sur-Isère 98 Auvergne-Rhône-Alpes 34 095
+Saint-Leu 95 La Réunion 34 160
+Vitrolles 29 Provence-Alpes-Côte d'Azur 34 301
+Mâcon 99 Bourgogne-Franche-Comté 34 448
+Agen 97 Nouvelle-Aquitaine 34 565
+Nevers 99 Bourgogne-Franche-Comté 34 799
+Neuilly-sur-Marne 10 Île-de-France 34 859
+Palaiseau 14 Île-de-France 34 954
+Haguenau 05 Grand Est 35 024
+Le Port 02 La Réunion 35 141
+Annemasse 04 Auvergne-Rhône-Alpes 35 461
+La Ciotat 08 Provence-Alpes-Côte d'Azur 35 758
+Saint-Raphaël 14 Provence-Alpes-Côte d'Azur 35 826
+Tremblay-en-France 20 Île-de-France 35 866
+Roanne 98 Auvergne-Rhône-Alpes 35 913
+Saint-Chamond 13 Auvergne-Rhône-Alpes 35 969
+Bagnolet 03 Île-de-France 36 047
+Conflans-Sainte-Honorine 05 Île-de-France 36 058
+Creil 08 Hauts-de-France 36 091
+Échirolles 05 Auvergne-Rhône-Alpes 36 143
+Sainte-Geneviève-des-Bois 16 Île-de-France 36 219
+Thonon-les-Bains 17 Auvergne-Rhône-Alpes 36 296
+Franconville 10 Île-de-France 36 349
+Lyon 4e Arrondissement 00 Auvergne-Rhône-Alpes 36 524
+Savigny-sur-Orge 17 Île-de-France 36 677
+Auxerre 98 Bourgogne-Franche-Comté 36 804
+Villepinte 19 Île-de-France 36 809
+Châtillon 07 Île-de-France 37 132
+Montluçon 97 Auvergne-Rhône-Alpes 37 417
+Poissy 13 Île-de-France 37 524
+Villefranche-sur-Saône 13 Auvergne-Rhône-Alpes 37 783
+Joué-lès-Tours 07 Centre-Val de Loire 37 974
+Saint-Joseph 94 La Réunion 38 167
+Saint-Benoît 92 La Réunion 38 466
+Pontault-Combault 17 Île-de-France 38 587
+Saint-Martin-d'Hères 22 Auvergne-Rhône-Alpes 38 974
+Colomiers 21 Occitanie 39 200
+Gagny 10 Île-de-France 39 391
+Marcq-en-Barœul 24 Hauts-de-France 39 697
+Stains 17 Île-de-France 39 776
+Montélimar 97 Auvergne-Rhône-Alpes 39 924
+Bagneux 03 Île-de-France 39 977
+Anglet 96 Nouvelle-Aquitaine 39 995
+Chartres 98 Centre-Val de Loire 40 195
+Douai 15 Hauts-de-France 40 860
+Le Lamentin 00 Martinique 40 920
+Draguignan 03 Provence-Alpes-Côte d'Azur 40 928
+Alès 98 Occitanie 41 129
+Melun 11 Île-de-France 41 183
+Thionville 99 Grand Est 41 396
+Wattrelos 33 Hauts-de-France 41 570
+Bron 00 Auvergne-Rhône-Alpes 41 589
+Compiègne 99 Hauts-de-France 41 660
+Saint-Germain-en-Laye 16 Île-de-France 41 749
+Rezé 97 Pays de la Loire 41 808
+Tarbes 99 Occitanie 41 862
+Arras 96 Hauts-de-France 41 973
+Le Cannet 97 Provence-Alpes-Côte d'Azur 42 056
+Boulogne-sur-Mer 97 Hauts-de-France 42 293
+Gap 99 Provence-Alpes-Côte d'Azur 42 567
+La Courneuve 07 Île-de-France 42 712
+Garges-lès-Gonesse 11 Île-de-France 42 821
+Castres 98 Occitanie 42 923
+Bourg-en-Bresse 99 Auvergne-Rhône-Alpes 43 454
+Caluire-et-Cuire 00 Auvergne-Rhône-Alpes 43 546
+Noisy-le-Sec 05 Île-de-France 43 693
+Talence 31 Nouvelle-Aquitaine 44 040
+Saint-Laurent-du-Maroni 00 Guyane 44 130
+Alfortville 01 Île-de-France 44 136
+Mantes-la-Jolie 08 Île-de-France 44 231
+Istres 10 Provence-Alpes-Côte d'Azur 44 248
+Sète 25 Occitanie 44 271
+Valenciennes 39 Hauts-de-France 44 509
+Angoulême 98 Nouvelle-Aquitaine 44 629
+Livry-Gargan 11 Île-de-France 44 721
+Choisy-le-Roi 06 Île-de-France 44 781
+Puteaux 13 Île-de-France 44 941
+Bastia 99 Corse 45 596
+Rosny-sous-Bois 12 Île-de-France 45 663
+Aubagne 05 Provence-Alpes-Côte d'Azur 45 711
+Châteauroux 99 Centre-Val de Loire 45 780
+Meudon 17 Île-de-France 46 014
+Saint-Priest 00 Auvergne-Rhône-Alpes 46 153
+Salon-de-Provence 99 Provence-Alpes-Côte d'Azur 46 225
+Châlons-en-Champagne 97 Grand Est 46 288
+Gennevilliers 14 Île-de-France 46 939
+Saint-Brieuc 99 Bretagne 47 058
+Chalon-sur-Saône 97 Bourgogne-Franche-Comté 47 085
+Carcassonne 98 Occitanie 47 418
+Saint-Herblain 98 Pays de la Loire 47 502
+Blois 99 Centre-Val de Loire 47 524
+Saint-Malo 99 Bretagne 47 528
+Brive-la-Gaillarde 99 Nouvelle-Aquitaine 48 333
+Charleville-Mézières 98 Grand Est 48 420
+Vaulx-en-Velin 00 Auvergne-Rhône-Alpes 48 906
+Suresnes 20 Île-de-France 49 145
+Martigues 24 Provence-Alpes-Côte d'Azur 49 310
+Montrouge 18 Île-de-France 49 372
+Belfort 99 Bourgogne-Franche-Comté 49 926
+Saint-Ouen 18 Île-de-France 49 949
+Lyon 5e Arrondissement 00 Auvergne-Rhône-Alpes 49 998
+Vincennes 98 Île-de-France 50 300
+Cagnes-sur-Mer 95 Provence-Alpes-Côte d'Azur 50 385
+Massy 12 Île-de-France 50 549
+Sevran 19 Île-de-France 50 888
+Albi 96 Occitanie 51 151
+Lyon 9e Arrondissement 00 Auvergne-Rhône-Alpes 51 313
+Évreux 99 Normandie 51 560
+Corbeil-Essonnes 04 Île-de-France 51 682
+Grasse 98 Provence-Alpes-Côte d'Azur 51 705
+Bayonne 97 Nouvelle-Aquitaine 51 943
+Lyon 6e Arrondissement 00 Auvergne-Rhône-Alpes 52 282
+Laval 99 Pays de la Loire 52 359
+Bobigny 95 Île-de-France 52 633
+Clamart 08 Île-de-France 53 099
+Sartrouville 17 Île-de-France 53 237
+Bondy 06 Île-de-France 53 416
+Arles 04 Provence-Alpes-Côte d'Azur 53 807
+Saint-Louis 96 La Réunion 53 832
+Fontenay-sous-Bois 09 Île-de-France 53 968
+Fréjus 96 Provence-Alpes-Côte d'Azur 54 023
+Chelles 02 Île-de-France 54 682
+Les Abymes 93 Guadeloupe 54 818
+Narbonne 99 Occitanie 55 001
+Évry 09 Île-de-France 55 425
+Vannes 99 Bretagne 55 573
+Pantin 15 Île-de-France 55 585
+Épinay-sur-Seine 97 Île-de-France 55 754
+Cholet 99 Pays de la Loire 55 772
+Villejuif 20 Île-de-France 55 805
+Maisons-Alfort 13 Île-de-France 55 816
+Saint-Quentin 98 Hauts-de-France 55 940
+Saint-André 91 La Réunion 56 088
+Meaux 10 Île-de-France 56 249
+Le Blanc-Mesnil 04 Île-de-France 56 346
+Hyères 97 Provence-Alpes-Côte d'Azur 56 799
+La Roche-sur-Yon 99 Pays de la Loire 56 991
+Beauvais 98 Hauts-de-France 57 548
+Sarcelles 18 Île-de-France 58 332
+Lorient 98 Bretagne 58 789
+Clichy 09 Île-de-France 60 746
+Chambéry 99 Auvergne-Rhône-Alpes 60 872
+Cayenne 00 Guyane 60 947
+Niort 99 Nouvelle-Aquitaine 61 044
+Ivry-sur-Seine 11 Île-de-France 61 099
+Neuilly-sur-Seine 21 Île-de-France 61 501
+Montauban 99 Occitanie 61 978
+Troyes 99 Grand Est 61 988
+Pessac 99 Nouvelle-Aquitaine 62 737
+Antony 01 Île-de-France 62 989
+Villeneuve-d'Ascq 40 Hauts-de-France 63 085
+Levallois-Perret 16 Île-de-France 64 028
+Valence 99 Auvergne-Rhône-Alpes 64 322
+Cergy 99 Île-de-France 64 451
+La Seyne-sur-Mer 98 Provence-Alpes-Côte d'Azur 65 386
+Vénissieux 00 Auvergne-Rhône-Alpes 65 822
+Quimper 99 Bretagne 66 743
+Noisy-le-Grand 14 Île-de-France 67 086
+Bourges 98 Centre-Val de Loire 67 841
+Issy-les-Moulineaux 15 Île-de-France 69 231
+Ajaccio 98 Corse 70 063
+Drancy 96 Île-de-France 70 883
+Mérignac 98 Nouvelle-Aquitaine 71 203
+Colmar 98 Grand Est 71 445
+Saint-Nazaire 99 Pays de la Loire 72 295
+Antibes 94 Provence-Alpes-Côte d'Azur 74 982
+Cannes 96 Provence-Alpes-Côte d'Azur 75 046
+Calais 98 Hauts-de-France 75 719
+Saint-Maur-des-Fossés 96 Île-de-France 75 833
+Champigny-sur-Marne 93 Île-de-France 77 883
+Béziers 98 Occitanie 77 894
+Le Tampon 99 La Réunion 78 366
+La Rochelle 99 Nouvelle-Aquitaine 78 623
+Pau 99 Nouvelle-Aquitaine 79 022
+Rueil-Malmaison 22 Île-de-France 79 783
+Fort-de-France 00 Martinique 82 030
+Courbevoie 98 Île-de-France 82 351
+Cherbourg-en-Cotentin 98 Normandie 82 578
+Lyon 7e Arrondissement 00 Auvergne-Rhône-Alpes 82 651
+Saint-Pierre 98 La Réunion 85 059
+Aulnay-sous-Bois 02 Île-de-France 85 214
+Lyon 8e Arrondissement 00 Auvergne-Rhône-Alpes 85 610
+Colombes 97 Île-de-France 86 050
+Aubervilliers 01 Île-de-France 86 533
+Asnières-sur-Seine 95 Île-de-France 86 678
+Versailles 99 Île-de-France 87 315
+Dunkerque 96 Hauts-de-France 89 485
+Créteil 94 Île-de-France 90 052
+Poitiers 99 Nouvelle-Aquitaine 90 590
+Vitry-sur-Seine 99 Île-de-France 93 317
+Avignon 99 Provence-Alpes-Côte d'Azur 94 200
+Nanterre 99 Île-de-France 96 321
+Roubaix 98 Hauts-de-France 96 953
+Tourcoing 99 Hauts-de-France 98 170
+Lyon 3e Arrondissement 00 Auvergne-Rhône-Alpes 103 506
+Saint-Paul 97 La Réunion 106 920
+Nancy 99 Grand Est 106 953
+Caen 99 Normandie 108 461
+Montreuil 98 Île-de-France 109 235
+Mulhouse 99 Grand Est 110 468
+Argenteuil 98 Île-de-France 112 064
+Saint-Denis 99 Île-de-France 112 309
+Rouen 97 Normandie 112 596
+Orléans 99 Centre-Val de Loire 118 102
+Metz 98 Grand Est 119 856
+Besançon 99 Bourgogne-Franche-Comté 120 107
+Boulogne-Billancourt 96 Île-de-France 120 943
+Perpignan 99 Occitanie 123 602
+Annecy 99 Auvergne-Rhône-Alpes 130 257
+Limoges 99 Nouvelle-Aquitaine 135 140
+Amiens 99 Hauts-de-France 136 998
+Tours 99 Centre-Val de Loire 139 963
+Brest 98 Bretagne 142 629
+Clermont-Ferrand 99 Auvergne-Rhône-Alpes 146 112
+Aix-en-Provence 97 Provence-Alpes-Côte d'Azur 146 385
+Le Mans 99 Pays de la Loire 146 804
+Saint-Denis 93 La Réunion 149 337
+Villeurbanne 00 Auvergne-Rhône-Alpes 150 375
+Nîmes 99 Occitanie 154 196
+Angers 98 Pays de la Loire 155 543
+Dijon 99 Bourgogne-Franche-Comté 159 031
+Grenoble 98 Auvergne-Rhône-Alpes 160 836
+Toulon 99 Provence-Alpes-Côte d'Azur 171 643
+Le Havre 96 Normandie 172 769
+Saint-Étienne 99 Auvergne-Rhône-Alpes 174 298
+Reims 99 Grand Est 187 074
+Rennes 98 Bretagne 222 104
+Lille 97 Hauts-de-France 236 782
+Bordeaux 97 Nouvelle-Aquitaine 256 045
+Strasbourg 99 Grand Est 283 515
+Montpellier 99 Occitanie 286 098
+Nantes 96 Pays de la Loire 314 611
+Nice 99 Provence-Alpes-Côte d'Azur 345 998
+Toulouse 99 Occitanie 482 738
+Marseille 12 Provence-Alpes-Côte d'Azur 870 018
+Paris null Île-de-France 2 210 875
