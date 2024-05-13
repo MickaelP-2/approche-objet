@@ -68,10 +68,10 @@ public class Ville implements Comparable<Ville>{
 		int nb1 = Integer.parseInt(this.getPopulationTotale().replace(" ",""));
 		int nb2 = Integer.parseInt(o.getPopulationTotale().replace(" ",""));
 		if(nb1 > nb2) {
-			res=1;
+			res=-1;
 		}
 		else if(nb1 < nb2) {
-			res=-1;
+			res=1;
 		}
 		else res=0;
 		return res;
@@ -81,7 +81,7 @@ public class Ville implements Comparable<Ville>{
 	@Override
 	public int compareTo(Ville o) {
 		// TODO Auto-generated method stub
-		int res = this.nom.compareTo(o.getNom());
+		int res = -this.nom.compareTo(o.getNom());
 		return res;
 	}
 	*/
