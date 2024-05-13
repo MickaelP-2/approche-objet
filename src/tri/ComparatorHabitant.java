@@ -9,6 +9,7 @@ public class ComparatorHabitant implements Comparator<Ville>{
 
 	}//fin main()
 
+		//utiliser le nom de la classe comparator -> ex:Collections.sort(list, new PopulationCompaarator());
 	@Override
 	public int compare(Ville o1, Ville o2) {
 		// TODO Auto-generated method stub
