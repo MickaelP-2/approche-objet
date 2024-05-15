@@ -33,4 +33,14 @@ public class Ville {
 	public String toString() {
 		return this.nom+" "+this.nbHabitants;
 	}
+	//
+	@Override
+	public boolean equals(Object object) {
+		
+		if(!(object instanceof Ville)) {
+			return false;
+		}
+		Ville autre = (Ville)object;
+		return nom.equals(autre.getNom());
+	}
 }

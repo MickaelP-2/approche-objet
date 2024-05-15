@@ -35,6 +35,20 @@ public class TestCalendar {
 		//formateur = new SimpleDateFormat("yyyy'/'MM'/'dd HH':'mm':'ss \n EEEE MMMM",Locale.GERMANY);
 		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",Locale.GERMANY);
 		System.out.println(formateur.format(d).toString());
+		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",new Locale("he","HE"));
+		System.out.println(formateur.format(d).toString());
+		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",new Locale("ro","RO"));
+		System.out.println(formateur.format(d).toString());
+		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",new Locale("ja","JA"));
+		System.out.println(formateur.format(d).toString());
+		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",new Locale("uk","UA"));//!!
+		System.out.println(formateur.format(d).toString());
+		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",new Locale("vi","VN"));
+		System.out.println(formateur.format(d).toString());
+		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",new Locale("pl","PL"));//!!
+		System.out.println(formateur.format(d).toString());
+		formateur = new SimpleDateFormat("EEEE dd MMMM MM yyyy HH':'mm':'ss ",new Locale("ar","AR"));//!!
+		System.out.println(formateur.format(d).toString());
 	}
 
 }
