@@ -1,4 +1,4 @@
-package listes;
+package fr.diginamic.testenumeration;
 
 import java.util.Objects;
 
@@ -8,6 +8,8 @@ import java.util.Objects;
 public class Ville {
 	private String nom;
 	private int nbHabitants;
+	private Continents continent;
+	
 	
 	/**
 	 * 
@@ -15,18 +17,18 @@ public class Ville {
 	public Ville(){
 		this.nom = null;
 		this.nbHabitants = 0;
-		
+		this.continent = null;
 	}
 	/**
 	 * 
 	 * @param nom
 	 * @param habitants
-	 * @param continent
+	 * @param class1
 	 */
-	public Ville(String nom, int habitants){
+	public Ville(String nom, int habitants,Continents continent){
 		this.nom = nom;
 		this.nbHabitants = habitants;
-		
+		this.continent = continent;
 	}
 	//
 	/**
@@ -57,9 +59,26 @@ public class Ville {
 	public void setNbHabitants(int nbHabitants) {
 		this.nbHabitants = nbHabitants;
 	}
+	/**
+	 * 
+	 * @return
+	 */
+	public Continents getContinent() {
+		return continent;
+	}
+	/**
+	 * 
+	 * @param continent
+	 */
+	public void setContinent(Continents continent) {
+		this.continent = continent;
+	}
+	/**
+	 * 
+	 */
 	
 	public String toString() {
-		return this.nom+" "+this.nbHabitants;
+		return this.nom+" "+this.nbHabitants+" "+this.continent;
 	}
 	/**
 	 * 
