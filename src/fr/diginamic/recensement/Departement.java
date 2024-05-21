@@ -67,7 +67,7 @@ public class Departement implements Comparator<Departement>{
 				+ ", Code Région = " + codeRegion + ", Nom de la Région = " + nomRegion + ", Population = " + Population + "]";
 	}
 	//
-	public String CorrespondanceNomCodeDepartement(String nomDepartement) {
+	public String NomCodeDepartement(String nomDepartement) {
 		//retourne le code du departement depuis l'argument nom en parametre
 	String res = "";
 	if(nomDepartement.equals("Ain")) {
@@ -376,7 +376,8 @@ public class Departement implements Comparator<Departement>{
 		return res;
 	}
 	
-	public String CorrespondanceCodeNomDepartement(String codeDepartement) {
+	
+	public String CodeNomDepartement(String codeDepartement) {
 		//retourne le nom du departement depuis l'argument code en parametre
 	String res = null;
 	if(codeDepartement.equals("01")) {
@@ -553,7 +554,7 @@ public class Departement implements Comparator<Departement>{
 	else if(codeDepartement.equals("57")) {
 		res = "Moselle";
 	}
-	else if(nomDepartement.equals("58")) {
+	else if(codeDepartement.equals("58")) {
 		res = "Nièvre";
 	}
 	else if(codeDepartement.equals("59")) {
@@ -684,15 +685,16 @@ public class Departement implements Comparator<Departement>{
 	}
 		return res;
 	}
+	
 	@Override
 	public int compare(Departement o1, Departement o2) {
 		// TODO Auto-generated method stub
-		int res =0;
+		int res = 0;
 		if(o1.getPopulation() > o2.getPopulation()) {
-			res = 1;
+			res = -1;
 		}
 		else if(o1.getPopulation() < o2.getPopulation()) {
-			res = -1;
+			res = 1;
 		}
 		else if(o1.getPopulation() == o2.getPopulation()) {
 			res = 0;

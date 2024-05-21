@@ -51,7 +51,7 @@ public class Afficher10VillesDepartement extends MenuService {
 			ville.setPopulationTotale(Integer.parseInt(tokens[9].toString()));//String
 			departement.setPopulation(Integer.parseInt(tokens[9].toString()));//int!! espace
 			//System.out.println("departement: "+departement.getCodeDepartement()+" nomdep: "+departement.CorrespondanceNomCodeDepartement(nomdepartement));
-			if(departement.getCodeDepartement().equals(departement.CorrespondanceNomCodeDepartement(nomdepartement))==true) {
+			if(departement.getCodeDepartement().equals(departement.NomCodeDepartement(nomdepartement))==true) {
 				listVille.add(ville);
 			}//fin if()
 		}

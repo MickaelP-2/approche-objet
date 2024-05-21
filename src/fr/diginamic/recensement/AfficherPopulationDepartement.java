@@ -37,12 +37,12 @@ public class AfficherPopulationDepartement  extends MenuService{
 			String ligneLue = iterDepartement.next();
 			String[] tokens = ligneLue.split(";");//???
 			departement.setCodeDepartement(tokens[2].toString());//String
-			departement.setNomDepartement(departement.CorrespondanceNomCodeDepartement(tokens[2].toString()));//String
+			departement.setNomDepartement(departement.NomCodeDepartement(tokens[2].toString()));//String
 			departement.setCodeRegion(tokens[0].toString());//String-> Corse = 2A
 			departement.setNomRegion(tokens[1].toString());//String
 			tokens[9] = tokens[9].toString().replace(" ","");
 			departement.setPopulation(Integer.parseInt(tokens[9].toString()));//int!! espace
-			if(departement.getCodeDepartement().equals(departement.CorrespondanceNomCodeDepartement(nomdepartement))==true) {
+			if(departement.getCodeDepartement().equals(departement.NomCodeDepartement(nomdepartement))==true) {
 				populationDep = populationDep+departement.getPopulation();	
 			}//fin if()
 		}

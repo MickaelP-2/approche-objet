@@ -18,7 +18,7 @@ public class Region implements Comparator<Region>{
 		this.nomRegion = null;
 		this.populationTotale = 0;
 	}//constructeur sans argument
-	public Region(String codeRegion, String nomRegion, String codeDepartement, String nomDepartement, int population) {
+	public Region(String codeRegion, String nomRegion, int population) {
 		this.codeRegion = null;
 		this.nomRegion = null;
 		this.populationTotale = 0;
@@ -45,23 +45,20 @@ public class Region implements Comparator<Region>{
 	//
 	@Override
 	public String toString() {
-		return "Region [Code Région = " + codeRegion + ", Nom de la Région = " + nomRegion + ", Population totale = " + populationTotale + "]";
+		return codeRegion + " " + nomRegion + " " + populationTotale;
 	}
 	@Override
 	public int compare(Region o1, Region o2) {
 		// TODO Auto-generated method stub
 		int res = 0;
 		if(o1.getPopulationTotale() > o2.getPopulationTotale()) {
-			res= -1;
-			
+			res= -1;	
 		}
 		else if(o1.getPopulationTotale() < o2.getPopulationTotale()) {
-			res= 1;
-			
+			res= 1;	
 		}
 		else if(o1.getPopulationTotale() == o2.getPopulationTotale()) {
 			res= 0;
-			
 		}
 		return res;
 	}

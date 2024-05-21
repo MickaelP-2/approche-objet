@@ -90,6 +90,6 @@ public class Ville {
 			return false;
 		}
 		Ville autre = (Ville)object;
-		return Objects.equals(this.nom, autre.getNom()) && Objects.equals(this.nbHabitants, autre.getNbHabitants());
+		return Objects.equals(this.nom, autre.getNom()) && Objects.equals(this.nbHabitants, autre.getNbHabitants()) && Objects.equals(this.continent,autre.getContinent());
 	}
 }
